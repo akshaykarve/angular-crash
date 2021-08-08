@@ -1,3 +1,9 @@
+# Credits
+
+All credits for this codebase go to @Traversy Media through the video https://www.youtube.com/watch?v=3dHNOWTI7H8
+
+Used this for learning/refreshing purposes only.
+
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
@@ -25,3 +31,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Run Dev Server
+
+Use `npm run server`
+The data for this dev server is stored in db.json
